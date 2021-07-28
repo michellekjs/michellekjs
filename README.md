@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michellekjs
+- 👋 Hi, I’m Michelle
 - 👀 I’m interested in 
   REACT, node, express
 
