@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle
 - 👀 I’m interested in 
-  REACT, node, express
+  Reactjs, NodeJS(express), MongoDB, MySQL, Firebase
 
 <!---
 michellekjs/michellekjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
